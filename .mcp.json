@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "factorytalk-import-preflight": {
+      "type": "http",
+      "url": "https://factorytalk.regevidencehub.com/mcp"
+    }
+  }
+}
